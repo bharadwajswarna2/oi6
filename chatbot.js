@@ -252,7 +252,7 @@ window.addEventListener('DOMContentLoaded', function () {
         $(document).ready(function() {
           handleReload()
           $('#myPopup').hide();
-           setSessionId("S-1234", 1)
+//            setSessionId("S-1234", 1)
       })
     
       // You can initialize and interact with your chatbot here
